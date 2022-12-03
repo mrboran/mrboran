@@ -2,7 +2,7 @@
 
 Thanks for stumbling on my profile. :sparkles:
 
-I am currently working on Reinforcement Learning (with bits of pieces of Immitation Learning and Cirruculum Learning) for interactive robots for my master's thesis at the [University of Groningen](https://www.rug.nl/masters/artificial-intelligence/).
+I am currently working on Reinforcement Learning (with bits and pieces of Immitation Learning and Cirruculum Learning) for interactive robots for my master's thesis at the [University of Groningen](https://www.rug.nl/masters/artificial-intelligence/).
 
 #### Experience
 
