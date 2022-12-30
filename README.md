@@ -2,13 +2,13 @@
 
 Thanks for stumbling on my profile. :sparkles:
 
-I am currently working on Reinforcement Learning (with bits and pieces of Immitation Learning and Cirruculum Learning) for interactive robots for my master's thesis at the [University of Groningen](https://www.rug.nl/masters/artificial-intelligence/).
+### Present Position
 
-#### Experience
+I am working on Reinforcement Learning (with bits and pieces of Immitation Learning and Cirruculum Learning) for interactive robots for my master's thesis at the [University of Groningen](https://www.rug.nl/masters/artificial-intelligence/) in [Interactive Robot Learning Laboratory (IRL-Lab)](https://www.ai.rug.nl/irl-lab/).
 
-I have experience in building machien learning pipelines and computer vision for about 3 years. Checkout [LinkedIn](https://www.linkedin.com/in/madhur-boran/) for more extensive overview.
+### Experience 
 
-
+I have professional experience in building machine learning pipelines and computer vision for about 1.5 years. Checkout my [LinkedIn](https://www.linkedin.com/in/madhur-boran/) for more extensive overview.
 
 <!--
 **mrboran/mrboran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
