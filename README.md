@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I am Madhur 👋
 
-Thanks for stumbling on my profile. :sparkles:
+- 🔭 I’m currently working on my master's thesis.
+- 🌱 I’m currently learning Reinforcement Learning and NLP.
+- 👯 I’m looking to collaborate on exciting projects related to data.
 
 ### Present Position
 
